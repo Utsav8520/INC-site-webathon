@@ -17,7 +17,7 @@ In this project , team cybersapiens have tried to create a website for Itahari N
 - Utsav8520 ([GitHub Profile](https://github.com/Utsav8520))
 - Nishan-Pradhan06 ([GitHub Profile](https://github.com/Nishan-Pradhan06))
 - nischal108 ([GitHub Profile](https://github.com/nischal108))
-- manishrai123 ([GitHub Profile](https://github.com/manishrai123))
+- manishrai123 ([GitHub Profile](https://github.com/manishrai45))
 
 ## 💻 Tech Stack
 
