@@ -104,7 +104,10 @@ h6 {
 #header {
     transition: all 0.5s;
     z-index: 997;
-    padding: 15px 0;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #header.header-scrolled,
@@ -133,6 +136,7 @@ h6 {
 }
 
 
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -150,6 +154,7 @@ h6 {
     margin: 0;
     padding: 0;
     display: flex;
+    gap: 2vw;
     list-style: none;
     align-items: center;
 }
@@ -163,7 +168,6 @@ h6 {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 0 10px 30px;
     font-size: 17px;
     font-weight: 600;
     color: #fff;
@@ -405,8 +409,8 @@ h6 {
     width: 100%;
     height: 100vh;
     background: #1a8910;
-    background: url(/assets/img/161.png) no-repeat;
-    background-size: cover;
+    /* background: url(assets/school.jpeg) no-repeat;
+    background-size: cover; */
     opacity: calc(75);
 }
 
