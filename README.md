@@ -1,5 +1,5 @@
 ﻿This is a project that CyberSapiens(@Utsav8520, @Nishan-Pradhan06 , @nischal108 @manishrai123) submitted in INC webathon and won the best frontend developer award.
-live demo : https://www.pradhannishan.com.np/
+live demo : https://itaharinamunacollege.vercel.app/
 
 # INC-Webathon 🚀
 
